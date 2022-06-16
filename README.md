@@ -89,4 +89,4 @@
 ![圖片](https://user-images.githubusercontent.com/58076095/174143920-b80fb0f2-5054-4ef1-8f61-5cca78760a70.png)
    
    
-`There is a full video about how to setup a DNS Server[Youtube Video](https://youtu.be/I65togV7AjM "link")`
+`There is a full video about how to setup a DNS Server. <https://youtu.be/I65togV7AjM>`
