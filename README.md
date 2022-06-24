@@ -1,3 +1,4 @@
+製作者B0942012白聖弘 B0942098林彥廷
 # Ubuntu-20.04-Webmin-DNS-Server
 1.Install Ubuntu 20.04 Server, login, and open terminal.  
 2.Update server.  
